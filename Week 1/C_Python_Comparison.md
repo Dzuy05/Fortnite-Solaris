@@ -1,7 +1,7 @@
 # BÀI 1  
 - Python có code size nhỏ hơn gấp 3 lần so với code C nhưng mà về thời gian thực hiện thì Python chậm hơn C gấp khoảng 20 lần (3.6s với 0.2s).
 # BÀI 2
-Dưới đây là một bảng so sánh trực quan giữa số dấu phẩy động 8 bit (Float8, Tinyfloat) và số dấu phẩy tĩnh:
+So sánh giữa số dấu phẩy động 8 bit (Float8, Tinyfloat) và số dấu phẩy tĩnh:
 
 | **Đặc điểm**               | **Số dấu phẩy động 8-bit (Float8, Tinyfloat)**                                                                                             | **Số dấu phẩy tĩnh**                                                                                                 |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
