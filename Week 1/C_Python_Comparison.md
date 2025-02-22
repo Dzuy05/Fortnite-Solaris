@@ -1,0 +1,1 @@
+Python có code size nhỏ hơn gấp 3 lần so với code C nhưng mà về thời gian thực hiện thì Python chậm hơn C gấp khoảng 20 lần.
